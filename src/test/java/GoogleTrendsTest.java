@@ -1,5 +1,5 @@
-import helpers.Blocks;
-import helpers.Filters;
+import helpers.enums.Blocks;
+import helpers.enums.Filters;
 import helpers.Helper;
 import helpers.Properties;
 import org.junit.AfterClass;
@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import pages.AnalyticsPage;
 import pages.TrendsPage;
 
-public class LoginPageTests {
+public class GoogleTrendsTest {
 
     private static WebDriver driver;
 
@@ -23,7 +23,7 @@ public class LoginPageTests {
         driver = Properties.makeSettings();
         trendsPage = new TrendsPage(driver);
         analyticsPage = new AnalyticsPage(driver);
-        Helper.folderMaker();
+        Helper.makeReportFolder();
     }
 
     @AfterClass

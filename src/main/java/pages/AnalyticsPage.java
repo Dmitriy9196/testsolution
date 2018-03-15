@@ -1,8 +1,8 @@
 package pages;
 
 import blocks.*;
-import helpers.Blocks;
-import helpers.Filters;
+import helpers.enums.Blocks;
+import helpers.enums.Filters;
 import helpers.Properties;
 import org.openqa.selenium.WebDriver;
 

@@ -37,7 +37,7 @@ public class Helper {
         }
     }
 
-    public static void folderMaker() {
+    public static void makeReportFolder() {
 
         reportFolderName = "Report_" + getDate();
         File folder = new File("reports\\" + reportFolderName);

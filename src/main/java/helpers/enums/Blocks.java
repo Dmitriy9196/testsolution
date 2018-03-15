@@ -1,4 +1,4 @@
-package helpers;
+package helpers.enums;
 
 public enum Blocks {
     dynamic, region, topics, queries
