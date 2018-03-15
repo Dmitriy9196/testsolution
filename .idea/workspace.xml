@@ -1,64 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c932370b-a121-4d8b-b713-da7d1f5cd6ad" name="Default" comment="удалил репорты">
+    <list default="true" id="c932370b-a121-4d8b-b713-da7d1f5cd6ad" name="Default" comment="readme++">
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/Dynamic_03_02_28-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/Dynamic_03_02_31-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/RegionsBlock_03_02_29-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/RelatedQueries_03_02_29-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/RelatedTopics_03_02_29-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/Dynamic_03_04_08-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/Dynamic_03_04_11-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/RegionsBlock_03_04_08-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/RelatedQueries_03_04_08-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/RelatedTopics_03_04_08-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/Dynamic_03_06_03-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/Dynamic_03_06_06-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/RegionsBlock_03_06_03-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/RelatedQueries_03_06_03-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/RelatedTopics_03_06_04-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/Dynamic_03_08_25-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/Dynamic_03_08_28-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/RegionsBlock_03_08_25-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/RelatedQueries_03_08_25-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/RelatedTopics_03_08_25-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/Dynamic_03_09_59-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/Dynamic_03_10_01-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/RegionsBlock_03_09_59-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/RelatedQueries_03_09_59-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/RelatedTopics_03_09_59-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/Dynamic_03_10_26-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/Dynamic_03_10_29-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/RegionsBlock_03_10_26-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/RelatedQueries_03_10_26-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/RelatedTopics_03_10_26-16_03.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/ComparePickersBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/ExplorePillsBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/PopularDynamicBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/RegionsBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/RelatedQueriesBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/RelatedTopicsBlock.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/ErrorWidget.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/Options.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/SearchField.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/Suggestions.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Blocks.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Filters.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Helper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Properties.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/AnalyticsPage$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/AnalyticsPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/TrendsPage.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2018-03-16T03-05-48_592-jvmRun1.dump" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoginPageTests.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginPageTests.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginPageTests.class" afterPath="" />
     </list>
+    <list id="134d8dfa-9e96-47a0-90ba-012011013c9c" name="readme++" comment="readme++" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="493">
+              <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -96,6 +43,7 @@
         <option value="$PROJECT_DIR$/src/main/java/helpers/Properties.java" />
         <option value="$PROJECT_DIR$/src/main/java/helpers/Helper.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/readme.txt" />
       </list>
     </option>
   </component>
@@ -112,7 +60,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -280,11 +230,34 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c932370b-a121-4d8b-b713-da7d1f5cd6ad" name="Default" comment="" />
+      <changelist id="134d8dfa-9e96-47a0-90ba-012011013c9c" name="readme++" comment="" />
       <created>1521150952368</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521150952368</updated>
     </task>
+    <task id="LOCAL-00001" summary="удалил не нужное">
+      <created>1521152643043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521152643043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="readme++">
+      <created>1521154620666</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521154620666</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme++">
+      <created>1521154643695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521154643695</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -300,6 +273,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -309,12 +283,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -329,8 +303,39 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="удалил не нужное" />
+    <MESSAGE value="readme++" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme++" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -363,8 +368,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="620">
+          <caret line="62" column="10" lean-forward="true" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           <folding />
         </state>
       </provider>
