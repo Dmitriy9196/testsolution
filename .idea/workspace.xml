@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c932370b-a121-4d8b-b713-da7d1f5cd6ad" name="Default" comment="" />
+    <list default="true" id="c932370b-a121-4d8b-b713-da7d1f5cd6ad" name="Default" comment="удалил репорты">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/Dynamic_03_02_28-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/Dynamic_03_02_31-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/RegionsBlock_03_02_29-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/RelatedQueries_03_02_29-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_02_21-16_03/RelatedTopics_03_02_29-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/Dynamic_03_04_08-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/Dynamic_03_04_11-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/RegionsBlock_03_04_08-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/RelatedQueries_03_04_08-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_03_56-16_03/RelatedTopics_03_04_08-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/Dynamic_03_06_03-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/Dynamic_03_06_06-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/RegionsBlock_03_06_03-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/RelatedQueries_03_06_03-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_05_54-16_03/RelatedTopics_03_06_04-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/Dynamic_03_08_25-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/Dynamic_03_08_28-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/RegionsBlock_03_08_25-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/RelatedQueries_03_08_25-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_08_16-16_03/RelatedTopics_03_08_25-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/Dynamic_03_09_59-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/Dynamic_03_10_01-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/RegionsBlock_03_09_59-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/RelatedQueries_03_09_59-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_09_47-16_03/RelatedTopics_03_09_59-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/Dynamic_03_10_26-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/Dynamic_03_10_29-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/RegionsBlock_03_10_26-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/RelatedQueries_03_10_26-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/Report_03_10_19-16_03/RelatedTopics_03_10_26-16_03.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/ComparePickersBlock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/ExplorePillsBlock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/PopularDynamicBlock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/RegionsBlock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/RelatedQueriesBlock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/RelatedTopicsBlock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/ErrorWidget.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/Options.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/SearchField.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/blocks/blockparts/Suggestions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Blocks.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Filters.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Helper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helpers/Properties.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AnalyticsPage$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AnalyticsPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/TrendsPage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2018-03-16T03-05-48_592-jvmRun1.dump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LoginPageTests.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LoginPageTests.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginPageTests.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +81,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -52,6 +112,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -239,7 +300,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -250,11 +310,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
